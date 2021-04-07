@@ -1,3 +1,5 @@
+
+
 class TimersDashboard extends React.Component {
     state = {
       timers: [
@@ -9,7 +11,7 @@ class TimersDashboard extends React.Component {
           "runningSince": null
       },
       {
-          "title": "Timer",
+          "title": "Feel Angry",
           "project": "Project1",
           "id": "5f12b7ed-ac2a-4411-9ce0-fe5581421ea9",
           "elapsed": 33152,
